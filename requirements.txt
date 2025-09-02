@@ -1,0 +1,4 @@
+polyfuzz==0.4.3
+psutil==7.0.0
+selenium==4.35.0
+webdriver_manager==4.0.2

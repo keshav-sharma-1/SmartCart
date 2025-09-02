@@ -1,0 +1,54 @@
+{
+  "user_input": "himalaya baby shampoo",
+  "total_matches": 5,
+  "headers": [
+    "Store",
+    "Brand",
+    "Packing",
+    "Item Name",
+    "Price",
+    "Original Relevance"
+  ],
+  "rows": [
+    {
+      "store": "Bigbasket",
+      "brand": "Himalaya",
+      "packing": "200 ml ",
+      "item_name": "Gentle Baby Shampoo",
+      "price": "₹138.75",
+      "original_relevance": 78.9
+    },
+    {
+      "store": "Bigbasket",
+      "brand": "Himalaya",
+      "packing": "100 ml ",
+      "item_name": "Gentle Baby Shampoo",
+      "price": "₹85",
+      "original_relevance": 78.9
+    },
+    {
+      "store": "Bigbasket",
+      "brand": "Himalaya",
+      "packing": "400 ml ",
+      "item_name": "Gentle Baby Shampoo",
+      "price": "₹300",
+      "original_relevance": 78.9
+    },
+    {
+      "store": "Blinkit",
+      "brand": "Himalaya",
+      "packing": "200 ml",
+      "item_name": "Gentle Baby Shampoo",
+      "price": "₹192",
+      "original_relevance": 75.4
+    },
+    {
+      "store": "Swiggyinsta",
+      "brand": "Himalaya",
+      "packing": "200 ml",
+      "item_name": "Gentle Baby Shampoo",
+      "price": "134",
+      "original_relevance": 75.4
+    }
+  ]
+}

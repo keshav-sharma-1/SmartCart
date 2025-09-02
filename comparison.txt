@@ -1,0 +1,7 @@
+Item                                | Store        | Brand           | Packing         | Item Name                                          | Price      | Relevance 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+himalaya baby shampoo               | Bigbasket    | Himalaya        | 200 ml          | Gentle Baby Shampoo                                | ₹138.75    | 78.9      
+                                    | Bigbasket    | Himalaya        | 100 ml          | Gentle Baby Shampoo                                | ₹85        | 78.9      
+                                    | Bigbasket    | Himalaya        | 400 ml          | Gentle Baby Shampoo                                | ₹300       | 78.9      
+                                    | Blinkit      | Himalaya        | 200 ml          | Gentle Baby Shampoo                                | ₹192       | 75.4      
+                                    | Swiggyinsta  | Himalaya        | 200 ml          | Gentle Baby Shampoo                                | 134        | 75.4      
